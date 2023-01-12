@@ -2,11 +2,7 @@
 #### i am studying information systems at ufu.
 #### Always seeking to be better than yesterday
 
-<div>
-  <a href="https://github.com/guilherme-dis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-dis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dis&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   
